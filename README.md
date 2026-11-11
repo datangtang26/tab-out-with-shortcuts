@@ -38,7 +38,7 @@ No server. No account. No external API calls. Just a Chrome extension.
 **1. Clone the repo**
 
 ```bash
-git clone git@github.com:datangtang26/tab-out-with-shortcuts.git
+git clone https://github.com/datangtang26/tab-out-with-shortcuts.git
 ```
 
 **2. Load the Chrome extension**
